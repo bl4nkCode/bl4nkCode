@@ -1,16 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Bryan Angelo
-
-### Fresh IT Grad | Fullstack Web Dev (React, Laravel) & Desktop Dev (C#, DevExpress)
-
 </div>
-
----
 
 ## ✨ About Me
 
-I'm a fresh graduate with a Bachelor of Science in Information Technology, focused on building fullstack web applications and desktop applications. I enjoy working across the stack — from designing REST APIs to building the UI that consumes them, and from web apps to Windows desktop tools.
+I'm a fresh graduate with a Bachelor of Science in Information Technology, focused on building fullstack web applications and desktop applications.I'm always willing to learn new tools, frameworks, and technologies to grow as a developer.
 
 - 🌐 Building fullstack web apps with **React** & **Laravel**
 - 🖥️ Building desktop apps with **C#** & **DevExpress**
@@ -21,26 +15,11 @@ I'm a fresh graduate with a Bachelor of Science in Information Technology, focus
 
 ## 🔧 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=react,laravel,cs,dotnet,js,html,css,mysql,git,postman,visualstudio" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=react,laravel,cs,dotnet,js,html,css,mysql,git,postman,visualstudio,visualstudiocode" alt="Tech stack icons" />
 
 **Languages & Frameworks:** C#, .NET, React, Laravel, JavaScript, HTML, CSS
 **Databases:** MySQL, Microsoft SQL Server
-**Tools:** Laragon, Postman, Git, Visual Studio
-
----
-
-## 📌 Featured Projects
-
-### 🗂️ [Task & Project Manager (Fullstack)](https://github.com/bl4nkCode/Project-management-frontend)
-A full-stack project & task management app with authentication.
-- Backend: Laravel API + Sanctum auth + MySQL → [Project-management-backend](https://github.com/bl4nkCode/Project-management-backend)
-- Frontend: React + TailwindCSS + Axios → [Project-management-frontend](https://github.com/bl4nkCode/Project-management-frontend)
-- Features: CRUD for projects/tasks, search, filters, pagination, deadlines
-
-### 📡 [RFID Tabulation App (Desktop)](https://github.com/bl4nkCode/RFID-Tabulation-app)
-A C# desktop attendance system using RFID scanning.
-- Tap an RFID card to auto-log attendance
-- View and print attendance sheets
+**Tools:** Laragon, Postman, Git, Visual Studio, Visual Studio Code
 
 ---
 
