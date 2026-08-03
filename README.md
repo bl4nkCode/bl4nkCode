@@ -15,7 +15,7 @@ I'm a fresh graduate with a Bachelor of Science in Information Technology, focus
 
 ## 🔧 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=react,laravel,cs,dotnet,js,html,css,mysql,git,postman,visualstudio,visualstudiocode" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=react,laravel,cs,dotnet,js,html,css,mysql,git,postman,visualstudio,vscode" alt="Tech stack icons" />
 
 **Languages & Frameworks:** C#, .NET, React, Laravel, JavaScript, HTML, CSS
 **Databases:** MySQL, Microsoft SQL Server
